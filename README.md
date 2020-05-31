@@ -1,5 +1,6 @@
 <div dir="RTL" align="right" style="direction:rtl;text-align:right;">
-  # شكراً لك
+# شكراً لك
+
 شكراً لكل من ساهم في جعلي أفضل
 
 * أبي (رحمة الله عليه) قدوتي ومعلمي الأول
