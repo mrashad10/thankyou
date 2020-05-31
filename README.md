@@ -7,6 +7,7 @@
 * [جهاد الترباني](https://www.youtube.com/channel/UChdeAO0naFewi8leXaCquOQ), لإعادة إحياء الأمل
 </div>
 <div dir="LTR" align="left" style="direction:rtl;text-align:left;">
+
 * [Richard Stallman](https://stallman.org/)
 * [GNU](https://www.gnu.org/)
 * Free software community
