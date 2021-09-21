@@ -19,4 +19,5 @@
 * [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 * [DesignCourse](https://www.youtube.com/user/DesignCourse)
+* [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
   </div>
